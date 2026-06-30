@@ -34,37 +34,43 @@ The project was designed in **Figma** as part of a UI/UX Design course.
 
 ## Screens
 
-### Design System
+## Design System
 
-![Design System](assets/design-system.png)
-
----
-
-### Admin Dashboard
-
-![Admin Dashboard](assets/admin-dashboard.png)
+![Design System](Design%20System.png)
 
 ---
 
-### Manager Dashboard
+## UX Summary
 
-![Manager Dashboard](assets/manager-dashboard.png)
-
----
-
-### Analyst Dashboard
-
-![Analyst Dashboard](assets/analyst-dashboard.png)
+![UX Summary](UX%20Summary.png)
 
 ---
 
-### Responsive Design
+## Admin Dashboard
 
-![Mobile 1](assets/mobile-1.png)
+![Admin Dashboard](Admin%20Dashboard.png)
 
-![Mobile 2](assets/mobile-2.png)
+---
 
-![Mobile 3](assets/mobile-3.png)
+## Manager Dashboard
+
+![Manager Dashboard](Manager%20Dashboard.png)
+
+---
+
+## Analyst Dashboard
+
+![Analyst Dashboard](Analyst%20Dashboard.png)
+
+---
+
+## Mobile Screens
+
+![Mobile Screen 1](Mobile%20Screen%201.png)
+
+![Mobile Screen 2](Mobile%20Screen%202.png)
+
+![Mobile Screen 3](Mobile%20Screen%203.png)
 
 ---
 
